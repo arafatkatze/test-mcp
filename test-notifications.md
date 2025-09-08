@@ -14,7 +14,7 @@
 
 ## Test Steps
 
-1. **Check VS Code Developer Tools Console**
+1. **Check VS Code Developer Tools Console**qweqw eqw 
    - Open: Help > Toggle Developer Tools
    - Look for `[MCP Debug]` messages showing:
      - "Setting up notification handlers for server: notification-test"
